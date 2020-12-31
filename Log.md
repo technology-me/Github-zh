@@ -1,5 +1,15 @@
 # 更新日志·ULog
 
+#### Ulog03：2020-12-31
+
+- ['div.col-9.mx-auto>h4.mb-1', '标记问题并合并请求给贡献者']
+- ['button[data-octo-dimensions="action:click_dismiss,actor_id:52663614,user_id:52663614,repository_id:322965470,repository_nwo:technology-me/Github-zh,context:issues,public:true,repo_has_help_wanted_label:true,repo_has_good_first_issue_label:true,shows_go_to_labels:false"', '关闭']
+- ['div.col-9.mx-auto>p.mb-1', '现在，GitHub将帮助发现潜在问题的第一次贡献者标记为  *(a.background)*']
+
+------
+
+- ['span[aria-label="Cannot fork because you own this repository and are not a member of any organizations."]', '*(svg)*复刻']
+
 #### Ulog02：2020-12-27
 
 - ['a.link-gray-dark.no-underline>span:odd', '标签']

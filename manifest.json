@@ -1,16 +1,17 @@
 {
- 	"name": "Github-zh",
- 	"description": "Chinese",
- 	"version": "0.1",
- 	"manifest_version": 2,
- 	"content_scripts": [{
- 		"matches": [
- 			"https://github.com/*"
- 		],
- 		"js": [
- 			"Translate.js"
- 		],
- 		"run_at": "document_end",
- 		"all_frames": false
- 	}]
- }
+    "name": "Github-zh",
+    "description": "Chinese",
+    "version": "0.1",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "matches": [
+            "https://github.com/*"
+        ],
+        "js": [
+            "script/jQuery.min.js",
+            "script/Translate.js"
+        ],
+        "run_at": "document_end",
+        "all_frames": false
+    }]
+}
